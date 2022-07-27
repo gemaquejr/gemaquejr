@@ -1,7 +1,7 @@
-## Olá! Eu sou o Francisco Espíndola Gemaque Junior 👋
+# Olá! Eu sou o Francisco Espíndola Gemaque Junior 👋
 
-- 🔭 Desenvolvedor Full Stack & Engenheiro Agrônomo
-- 🌱 Estou estudando MongoDB
+- 🔭 Desenvolvedor Web Full Stack & Engenheiro Agrônomo
+- 🌱 Estou estudando Python
 
 <div align="center">
 <a href="https://github.com/gemaquejr">
