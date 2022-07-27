@@ -1,7 +1,7 @@
 # Olá! Eu sou o Francisco Espíndola Gemaque Junior 👋
 
 ### - 🔭 Desenvolvedor Web Full Stack & Engenheiro Agrônomo
-### - 🌱 Sempre estudando, no momento minha dedicação é ao Python
+### - 🌱 Python Loading...
 
 <div align="center">
 <a href="https://github.com/gemaquejr">
