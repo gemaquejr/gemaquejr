@@ -3,11 +3,11 @@
 ### - 🔭 Desenvolvedor Web Full Stack & Engenheiro Agrônomo
 ### - 🌱 Loading... Python
 
-<!-- <div align="center">
+<div align="center">
 <a href="https://github.com/gemaquejr">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gemaquejr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemaquejr&layout=compact&langs_count=16&theme=tokyonight"/>
-</div> -->
+</div>
 
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Gemaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
