@@ -1,7 +1,11 @@
 # Olá! Eu sou o Francisco Espíndola Gemaque Junior 👋
 
 ### - 🔭 Desenvolvedor Web Full Stack
-### - 🌱 Loading... Python
+
+<div align="center">
+man_technologist Sobre mim
+Estou atualmente em transição de carreira da área de engenharia agronômica para a área de Programação. A tecnologia entrou na minha vida em meados dos anos 90 e foi amor a primeira vista. Hoje em dia sou um Desenvolvimento Web FullStack formado pela Trybe, mas apesar de formado, estou em aprendizado constante, apredendo a viver um dia de cada vez, aprendendo que nem tudo está no meu tempo e sim no tempo que deve ser. Sempre vou acreditar que os pontos vão se conectar no final, isso sempre me dará a confiança necessária para seguir meu coração.
+</div>
 
 <div align="center">
 <a href="https://github.com/gemaquejr">
