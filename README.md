@@ -5,7 +5,7 @@
 <div align="center">
 <h2 align="center">Sobre mim</h2>
   
-Estou atualmente em transição de carreira da área de engenharia agronômica para a área de Programação. A tecnologia entrou na minha vida em meados dos anos 90 e foi amor a primeira vista, durante toda a minha vida a tecnologia foi fazendo parte dela, seja em um levantamento topográfico e geodésico ou em um jogo novo e desafiador. Hoje em dia sou um Desenvolvedor Web FullStack formado pela Trybe, e apesar de formado, estou em aprendizado constante, apredendo a viver um dia de cada vez, aprendendo que nem tudo está no meu tempo e sim no tempo que deve ser e sempre acreditando que os pontos vão se conectar no final, com isso em mente, tenho a confiança necessária para seguir sempre o que meu coração mandar, e o que ele manda agora é: Se atualize sempre que você será um bom profissional.
+Estou atualmente em transição de carreira da área de engenharia agronômica para a área de Programação. A tecnologia entrou na minha vida em meados dos anos 90 e foi amor a primeira vista, durante toda a minha vida a tecnologia foi fazendo parte dela, seja em um levantamento topográfico e geodésico ou em um jogo novo e desafiador. Hoje em dia sou um Desenvolvedor Web FullStack formado pela Trybe, e apesar de formado, estou em aprendizado constante, aprendendo a viver um dia de cada vez, aprendendo que nem tudo está no meu tempo e sim no tempo que deve ser e sempre acreditando que os pontos vão se conectar no final, com isso em mente, tenho a confiança necessária para seguir sempre o que meu coração mandar, e o que ele manda agora é: Atualize-se sempre que você será um bom profissional.
 
 </div>
 
