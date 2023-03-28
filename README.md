@@ -11,8 +11,8 @@ Estou atualmente em transição de carreira da área de engenharia agronômica p
 
 <div align="center">
 <a href="https://github.com/gemaquejr">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gemaquejr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemaquejr&layout=compact&langs_count=16&theme=transparent"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gemaquejr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemaquejr&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
