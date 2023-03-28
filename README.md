@@ -31,7 +31,7 @@ Estou atualmente em transição de carreira da área de engenharia agronômica p
 <img align="center" alt="Gemaque-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
 </div>
 
-##
+<h2 align="center">Redes Sociais</h2>
 
 <div align="center">
 <a href="https://linkedin.com/in/gemaquejr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
