@@ -36,6 +36,7 @@ Estou atualmente em transição de carreira da área de engenharia agronômica p
 <div align="center">
 <a href="https://linkedin.com/in/gemaquejr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:gemaquejr@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://portfolio-gemaquejr.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-2F4F4F?style=for-the-badge&logo=portifolio&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/gemaquejr81" target="_blank"><img src="https://img.shields.io/badge/-Instagram-025E8C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://facebook.com/gemaque.junior.9/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-4285F4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://beacons.ai/gemaquejr" target="_blank"><img src="https://img.shields.io/badge/-Beacons-2F4F4F?style=for-the-badge&logo=beacons&logoColor=white" target="_blank"></a>
