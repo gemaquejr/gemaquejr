@@ -41,6 +41,12 @@ Estou atualmente em transição de carreira da área de engenharia agronômica p
 <a href="https://facebook.com/gemaque.junior.9/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-4285F4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://beacons.ai/gemaquejr" target="_blank"><img src="https://img.shields.io/badge/-Beacons-2F4F4F?style=for-the-badge&logo=beacons&logoColor=white" target="_blank"></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![Snake animation](https://github.com/gemaquejr/gemaquejr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
