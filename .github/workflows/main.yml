@@ -18,6 +18,11 @@ jobs:
           echo "GIF_OUT_PATH=dist/github-contribution-grid-snake.gif" >> env.txt
           echo "SVG_OUT_PATH=dist/github-contribution-grid-snake.svg" >> env.txt
 
+      - name: Install Platane/snk
+        run: |
+          npm install Platane/snk
+        shell: bash
+
       - name: Snake Animation
         id: snake-gif
         run: |
