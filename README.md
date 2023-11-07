@@ -1,6 +1,5 @@
-# Olá! Eu sou o Francisco Espíndola Gemaque Junior 👋
-
-### - 🔭 Desenvolvedor Web Full Stack
+# Olá, seja bem-vindo(a) ao meu GitHub! :wave:
+### Me chamo **Francisco Espíndola Gemaque Junior** e sou um **Desenvolvedor Web Full Stack** formado na Trybe.
 
 <div align="center">
 <h2 align="center">Sobre mim</h2>
