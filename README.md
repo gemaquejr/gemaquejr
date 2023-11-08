@@ -19,7 +19,6 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 </div>
 
 Skills
----------
 
 <div align="center">
 <a href="https://github.com/gemaquejr">
