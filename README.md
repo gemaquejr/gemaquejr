@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo(a) ao meu GitHub! :wave:
-### Me chamo **Francisco Espíndola Gemaque Jr.** e sou um **Desenvolvedor Web Full Stack** formado na Trybe.
+### Me chamo **Francisco Gemaque** e sou um **Desenvolvedor Web Full Stack** formado na Trybe.
 
 <div align="center">
 <h2 align="center">Sobre mim</h2>
