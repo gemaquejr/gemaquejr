@@ -22,8 +22,8 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 
 <div align="center">
 <a href="https://github.com/gemaquejr">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gemaquejr&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemaquejr&layout=compact&langs_count=16&theme=darcula"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gemaquejr&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemaquejr&layout=compact&langs_count=16&theme=prussian"/>
 </div>
 
 > FRONT-END
