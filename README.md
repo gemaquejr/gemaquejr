@@ -93,6 +93,11 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 <a href="https://facebook.com/gemaque.junior.9/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-4285F4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://beacons.ai/gemaquejr" target="_blank"><img src="https://img.shields.io/badge/-Beacons-2F4F4F?style=for-the-badge&logo=beacons&logoColor=white" target="_blank"></a>
 
+#### - Bootcamps e Certificações:
+
+[<img src="https://hermes.dio.me/tracks/afebe5ed-2b18-438a-95b0-2c971e9aeff9.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
+[<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"/></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
