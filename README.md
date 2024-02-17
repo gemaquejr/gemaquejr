@@ -95,7 +95,9 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 
 <h2 align="center">Bootcamps e Certificações</h2>
 
+[<img src="https://media.licdn.com/dms/image/D4D0BAQHo1GZmhutd4A/company-logo_100_100/0/1664308284303/betrybe_logo?e=1716422400&v=beta&t=NKADUSPZsnf4FyjN0iBhH-Vu_ygRD7BNMw8TcehkXlc" height="50"/></a>](https://www.credential.net/27c6913c-88df-43e3-90e6-a798d2a92630#gs.4ly6vx)
 [<img src="https://hermes.dio.me/tracks/afebe5ed-2b18-438a-95b0-2c971e9aeff9.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
+[<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" height="50"/></a>](https://web.dio.me/track/descubra-nuvem-aws-localizalabs-meu-futuro-e-tech)
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"/></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
 
 <picture>
