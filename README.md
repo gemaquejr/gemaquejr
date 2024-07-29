@@ -98,6 +98,7 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 [<img src="https://i.vimeocdn.com/video/1601633424-47922400748457936cb2b276d0c36c4682f131441c3cbb808e9fa91730160712-d_640?f=webp" height="50"/></a>](https://www.credential.net/27c6913c-88df-43e3-90e6-a798d2a92630#gs.4ly6vx)
 [<img src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png" height="50"/></a>](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer)
 [<img src="https://hermes.dio.me/tracks/afebe5ed-2b18-438a-95b0-2c971e9aeff9.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
+[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="50"/></a>](https://web.dio.me/track/santander-2024-backend-com-java)
 [<img src="https://hermes.dio.me/tracks/eac28003-aab4-4427-9e80-d750b44894c7.png" height="50"/></a>](https://web.dio.me/track/descubra-nuvem-aws-nexa-resources)
 [<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" height="50"/></a>](https://web.dio.me/track/descubra-nuvem-aws-localizalabs-meu-futuro-e-tech)
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"/></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
