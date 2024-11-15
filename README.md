@@ -102,6 +102,7 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 [<img src="https://hermes.dio.me/tracks/eac28003-aab4-4427-9e80-d750b44894c7.png" height="50"/></a>](https://web.dio.me/track/descubra-nuvem-aws-nexa-resources)
 [<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" height="50"/></a>](https://web.dio.me/track/descubra-nuvem-aws-localizalabs-meu-futuro-e-tech)
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"/></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
+[<img src="https://assets.dio.me/8O4Ov__246yP1m1GMFj94m2LxxG3lPwaLMlIdRMDzdE/f:webp/h:120/q:80/L3RyYWNrcy8yNjExMzViOS02N2M5LTQ0MjktYWQyZC00MThjMTFmMWMzNGYucG5n" height="50"/></a>](https://web.dio.me/track/engenharia-prompts-aws)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
