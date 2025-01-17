@@ -1,21 +1,27 @@
 # Olá, seja bem-vindo(a) ao meu GitHub! :wave:
-### Me chamo **Francisco Gemaque** e sou um **Desenvolvedor Web Full Stack** formado na Trybe.
 
 <div align="center">
 <h2 align="center">Sobre mim</h2>
+Me chamo Francisco Gemaque, sou um Desenvolvedor Web Full Stack formado pela Trybe e estou em transição de carreira da área de Engenharia Agronômica para a área de Programação.
+
+Minha paixão por tecnologia começou nos anos 90 e tem me acompanhado desde então. Seja em projetos de levantamento topográfico e geodésico ou explorando desafios em jogos, sempre encontrei na tecnologia uma maneira de me conectar com soluções criativas e inovadoras.
+
+Atualmente, estou focado em consolidar minhas habilidades como desenvolvedor, aplicando os conhecimentos adquiridos em projetos práticos e desafiadores.
+
+O que você encontrará aqui?
+Se você está explorando meus repositórios, encontrará projetos que refletem não apenas minhas habilidades técnicas, mas também minha dedicação ao aprendizado contínuo.
+
+Durante minha formação na Trybe, participei de um curso intensivo de 30 horas semanais ao longo de um ano. Cada semana incluía:
+
+Conteúdo técnico: Desenvolvimento de competências em tecnologias como JavaScript, React, Node.js, Python, entre outras.
+Projetos práticos: Desenvolvimento de cerca de 40 projetos, entregues em prazos desafiadores de uma semana, com requisitos específicos a serem atendidos.
+Esses projetos são a prova do meu compromisso com prazos e qualidade de entrega, mesmo em situações de alta intensidade.
+
+Entre em contato
+Se surgir alguma dúvida ou se quiser saber mais sobre mim, ficarei feliz em conversar!
+
+[Email](gemaquejr@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/gemaquejr/)
   
-Estou atualmente em transição de carreira da área de engenharia agronômica para a área de Programação. A tecnologia entrou na minha vida em meados dos anos 90 e foi amor a primeira vista, durante toda a minha vida a tecnologia foi fazendo parte dela, seja em um levantamento topográfico e geodésico ou em um jogo novo e desafiador.
-
-Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
-
-Caso você esteja se perguntando: **"O que são exatamente os projetos que você se refere?"**, eu explico:
-
-A formação em Desenvolvimento Web da Trybe é um curso de **30 horas semanais** (6h/dia), com duração de 1 ano, onde não apenas aprendemos as competências, mas também precisamos **consolidar esse conhecimento**. É nesse contexto que entram os projetos aos quais me refiro. Cada projeto possui uma lista de requisitos a serem cumpridos e **um prazo de uma semana para que 80% do projeto seja entregue**. 
-
-Ao longo dessa jornada de aprendizado, desenvolvi cerca de **40 projetos dentro do prazo estabelecido**, ou seja, todos os projetos que você encontra em meus Repositórios foram desenvolvidos no período de uma semana - geralmente, a mesma semana em que o conteúdo foi ensinado.
-
-Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via e-mail ou Linkedin**
-
 </div>
 
 ---
