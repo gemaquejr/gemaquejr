@@ -1,7 +1,11 @@
-# Olá, seja bem-vindo(a) ao meu GitHub! :wave:
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Mundo!+👋;Sou+Francisco+Gemaque....;Bem+vindo(a)!+😉&center=true&color=CCD1F7&size=25&">
+  </a>
+</h1>
 
 <h2 align="center">Sobre mim</h2>
-Me chamo Francisco Gemaque, sou um Desenvolvedor Web Full Stack formado pela Trybe e estou em transição de carreira da área de Engenharia Agronômica para a área de Programação.
+Me chamo Francisco Espíndola Gemaque Junior, sou um Desenvolvedor Web Full Stack formado pela Trybe e estou em transição de carreira da área de Engenharia Agronômica para a área de Programação.
 
 Minha paixão por tecnologia começou nos anos 90 e tem me acompanhado desde então. Seja em projetos de levantamento topográfico e geodésico ou explorando desafios em jogos, sempre encontrei na tecnologia uma maneira de me conectar com soluções criativas e inovadoras.
 
@@ -132,4 +136,15 @@ Se surgir alguma dúvida ou se quiser saber mais sobre mim, ficarei feliz em con
 
 Feito com ❤️ por [Francisco Gemaque](https://www.linkedin.com/in/gemaquejr/)
 
+<div align="center">
+<p>Tenha um bom dia!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
+
+<div align="center">
+<p></p>
+  <img src="https://profile-counter.glitch.me/gemaquejr/count.svg" alt="hit counter" align="center">
+</div>
 </div>
