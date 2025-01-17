@@ -1,6 +1,5 @@
 # Olá, seja bem-vindo(a) ao meu GitHub! :wave:
 
-<div align="center">
 <h2 align="center">Sobre mim</h2>
 Me chamo Francisco Gemaque, sou um Desenvolvedor Web Full Stack formado pela Trybe e estou em transição de carreira da área de Engenharia Agronômica para a área de Programação.
 
@@ -20,9 +19,7 @@ Esses projetos são a prova do meu compromisso com prazos e qualidade de entrega
 Entre em contato
 Se surgir alguma dúvida ou se quiser saber mais sobre mim, ficarei feliz em conversar!
 
-[Email](gemaquejr@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/gemaquejr/)
-  
-</div>
+<a>[Email](gemaquejr@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/gemaquejr/)</a>
 
 ---
 
