@@ -127,8 +127,6 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 
 ![Snake animation](https://github.com/gemaquejr/gemaquejr/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+Feito com ❤️ por [Francisco Gemaque](https://www.linkedin.com/in/gemaquejr/)
 
-<div align="center">
-  Feito com ❤️ por [gemaquejr]([https://github.com/gemaquejr](https://www.linkedin.com/in/gemaquejr/))
 </div>
