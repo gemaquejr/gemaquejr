@@ -18,13 +18,19 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 
 </div>
 
-## Skills
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
 <a href="https://github.com/gemaquejr">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gemaquejr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemaquejr&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
+
+---
+
+## 🛠️ Minhas Skills
 
 > FRONT-END
 - **React.Js** (Redux, Context API, Hooks, React Router, Class and Functional Components, Tests);
@@ -64,6 +70,8 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 - **Adobe Photoshop**.
 - **Canva**;
 
+---
+
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Gemaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Gemaque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -83,7 +91,9 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 <img align="center" alt="Gemaque-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
 </div>
 
-<h2 align="center">Redes Sociais</h2>
+---
+
+## 💬 Redes Sociais
 
 <div align="center">
 <a href="https://linkedin.com/in/gemaquejr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -93,7 +103,9 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 <a href="https://facebook.com/gemaque.junior.9/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-4285F4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://beacons.ai/gemaquejr" target="_blank"><img src="https://img.shields.io/badge/-Beacons-2F4F4F?style=for-the-badge&logo=beacons&logoColor=white" target="_blank"></a>
 
-<h2 align="center">Bootcamps e Certificações</h2>
+---
+
+## 🎓 Bootcamps e Certificações 
 
 [<img src="https://i.vimeocdn.com/video/1601633424-47922400748457936cb2b276d0c36c4682f131441c3cbb808e9fa91730160712-d_640?f=webp" height="50"/></a>](https://www.credential.net/27c6913c-88df-43e3-90e6-a798d2a92630#gs.4ly6vx)
 [<img src="https://hermes.dio.me/tracks/afebe5ed-2b18-438a-95b0-2c971e9aeff9.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
@@ -105,6 +117,8 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 [<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" height="50"/></a>](https://web.dio.me/track/descubra-nuvem-aws-localizalabs-meu-futuro-e-tech)
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"/></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
@@ -113,4 +127,8 @@ Caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via 
 
 ![Snake animation](https://github.com/gemaquejr/gemaquejr/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
+<div align="center">
+  Feito com ❤️ por [gemaquejr]([https://github.com/gemaquejr](https://www.linkedin.com/in/gemaquejr/))
 </div>
