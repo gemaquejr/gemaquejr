@@ -16,12 +16,12 @@ Se você está explorando meus repositórios, encontrará projetos que refletem 
 
 Durante minha formação na Trybe, participei de um curso intensivo de 30 horas semanais ao longo de um ano. Cada semana incluía:
 
-Conteúdo técnico: Desenvolvimento de competências em tecnologias como JavaScript, React, Node.js, Python, entre outras.
-Projetos práticos: Desenvolvimento de cerca de 40 projetos, entregues em prazos desafiadores de uma semana, com requisitos específicos a serem atendidos.
+- **Conteúdo técnico**: Desenvolvimento de competências em tecnologias como JavaScript, React, Node.js, Python, entre outras.
+- **Projetos práticos**: Desenvolvimento de cerca de 40 projetos, entregues em prazos desafiadores de uma semana, com requisitos específicos a serem atendidos.
+
 Esses projetos são a prova do meu compromisso com prazos e qualidade de entrega, mesmo em situações de alta intensidade.
 
-Entre em contato
-Se surgir alguma dúvida ou se quiser saber mais sobre mim, ficarei feliz em conversar!
+Entre em contato se surgir alguma dúvida ou se quiser saber mais sobre mim, ficarei feliz em conversar!
 
 <a>[Email](gemaquejr@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/gemaquejr/)</a>
 
