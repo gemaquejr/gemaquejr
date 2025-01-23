@@ -137,7 +137,7 @@ Entre em contato se surgir alguma dúvida ou se quiser saber mais sobre mim, fic
 Feito com ❤️ por [Francisco Gemaque](https://www.linkedin.com/in/gemaquejr/)
 
 <div align="center">
-<p>Tenha um bom dia!</p>
+<p>Tenha um bom dia! 👷</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
