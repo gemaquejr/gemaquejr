@@ -143,9 +143,3 @@ Feito com ❤️ por [Francisco Gemaque](https://www.linkedin.com/in/gemaquejr/)
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
-
-## Contador de Visitantes
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gemaquejr.gemaquejr&title=Visitantes&labelColor=1B1D23&color=CCD1F7&style=flat-square" alt="Contador de Visitantes">
-</div>
