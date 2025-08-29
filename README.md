@@ -144,8 +144,8 @@ Feito com ❤️ por [Francisco Gemaque](https://www.linkedin.com/in/gemaquejr/)
 </div>
 </div>
 
+## Contador de Visitantes
+
 <div align="center">
-<p></p>
-  <img src="https://profile-counter.glitch.me/gemaquejr/count.svg" alt="hit counter" align="center">
-</div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=gemaquejr.gemaquejr&title=Visitantes&labelColor=1B1D23&color=CCD1F7&style=flat-square" alt="Contador de Visitantes">
 </div>
