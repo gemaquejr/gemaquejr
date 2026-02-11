@@ -5,23 +5,26 @@
 </h1>
 
 <h2 align="center">Sobre mim</h2>
-Me chamo Francisco Espíndola Gemaque Junior, sou um Desenvolvedor Web Full Stack formado pela Trybe e estou em transição de carreira da área de Engenharia Agronômica para a área de Programação.
+Me chamo Francisco Espíndola Gemaque Junior, sou Desenvolvedor Web Full Stack formado pela Trybe e atualmente estou em transição de carreira da Engenharia Agronômica para a área de Tecnologia.
 
-Minha paixão por tecnologia começou nos anos 90 e tem me acompanhado desde então. Seja em projetos de levantamento topográfico e geodésico ou explorando desafios em jogos, sempre encontrei na tecnologia uma maneira de me conectar com soluções criativas e inovadoras.
+Minha conexão com a tecnologia começou ainda nos anos 90 e nunca mais parou. Ao longo da minha trajetória, seja atuando com levantamentos topográficos e geodésicos ou explorando desafios estratégicos em jogos, sempre encontrei na tecnologia um caminho para criar soluções, otimizar processos e inovar.
 
-Atualmente, estou focado em consolidar minhas habilidades como desenvolvedor, aplicando os conhecimentos adquiridos em projetos práticos e desafiadores.
+Hoje, concentro meus esforços em consolidar e expandir minhas habilidades como desenvolvedor, aplicando na prática tudo o que aprendi em projetos reais, desafiadores e orientados a resultados.
 
-O que você encontrará aqui?
-Se você está explorando meus repositórios, encontrará projetos que refletem não apenas minhas habilidades técnicas, mas também minha dedicação ao aprendizado contínuo.
+🚀 O que você encontrará por aqui?
 
-Durante minha formação na Trybe, participei de um curso intensivo de 30 horas semanais ao longo de um ano. Cada semana incluía:
+Nos meus repositórios e projetos, você verá mais do que código: verá minha dedicação ao aprendizado contínuo, minha evolução técnica e meu compromisso com qualidade de entrega.
 
-- **Conteúdo técnico**: Desenvolvimento de competências em tecnologias como JavaScript, React, Node.js, Python, entre outras.
-- **Projetos práticos**: Desenvolvimento de cerca de 40 projetos, entregues em prazos desafiadores de uma semana, com requisitos específicos a serem atendidos.
+Durante minha formação na Trybe, participei de um programa intensivo com mais de 30 horas semanais ao longo de 1 ano, incluindo:
 
-Esses projetos são a prova do meu compromisso com prazos e qualidade de entrega, mesmo em situações de alta intensidade.
+- **Desenvolvimento técnico**: Tecnologias como JavaScript, React, Node.js, Python, entre outras.
+- **Projetos práticos**: Cerca de 40 projetos práticos, entregues em ciclos semanais, com requisitos específicos e prazos desafiadores.
+- **Gestão de Projetos**: Experiência constante com metodologias ágeis, trabalho em equipe e resolução de problemas reais.
 
-Entre em contato se surgir alguma dúvida ou se quiser saber mais sobre mim, ficarei feliz em conversar!
+Esses projetos representam minha capacidade de atuar sob pressão, cumprir prazos e manter alto padrão de qualidade em cada novo desafio.
+
+📩 Fique à vontade para entrar em contato.
+Será um prazer conversar, trocar ideias ou apresentar melhor meu trabalho!
 
 <a>[Email](gemaquejr@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/gemaquejr/)</a>
 
