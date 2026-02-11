@@ -26,7 +26,7 @@ Esses projetos representam minha capacidade de atuar sob pressão, cumprir prazo
 📩 Fique à vontade para entrar em contato.
 Será um prazer conversar, trocar ideias ou apresentar melhor meu trabalho!
 
-<a>[Email](gemaquejr@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/gemaquejr/)</a>
+<a>[Portfólio](https://portfolio-gemaquejr.netlify.app/) ou [LinkedIn](https://www.linkedin.com/in/gemaquejr/)</a>
 
 ---
 
