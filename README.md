@@ -5,28 +5,40 @@
 </h1>
 
 <h2 align="center">Sobre mim</h2>
-Me chamo Francisco Espíndola Gemaque Junior, sou Desenvolvedor Web Full Stack formado pela Trybe e atualmente estou em transição de carreira da Engenharia Agronômica para a área de Tecnologia.
 
-Minha conexão com a tecnologia começou ainda nos anos 90 e nunca mais parou. Ao longo da minha trajetória, seja atuando com levantamentos topográficos e geodésicos ou explorando desafios estratégicos em jogos, sempre encontrei na tecnologia um caminho para criar soluções, otimizar processos e inovar.
+Me chamo **Francisco Espíndola Gemaque Junior**, sou **Desenvolvedor Web Full Stack** formado pela Trybe e atualmente em transição de carreira da **Engenharia Agronômica para a Tecnologia** — trazendo comigo uma bagagem analítica, visão de campo e forte capacidade de resolução de problemas.
 
-Hoje, concentro meus esforços em consolidar e expandir minhas habilidades como desenvolvedor, aplicando na prática tudo o que aprendi em projetos reais, desafiadores e orientados a resultados.
+Minha conexão com tecnologia começou ainda nos anos 90 e evoluiu ao longo dos anos, seja atuando com **levantamentos topográficos e geodésicos**, seja explorando desafios estratégicos que sempre exigiram lógica, precisão e pensamento sistêmico.
 
-🚀 O que você encontrará por aqui?
+Hoje, direciono essa experiência para o desenvolvimento de software, focado em criar **soluções escaláveis, funcionais e orientadas a valor real**.
 
-Nos meus repositórios e projetos, você verá mais do que código: verá minha dedicação ao aprendizado contínuo, minha evolução técnica e meu compromisso com qualidade de entrega.
+---
 
-Durante minha formação na Trybe, participei de um programa intensivo com mais de 30 horas semanais ao longo de 1 ano, incluindo:
+🚀 **O que você encontrará por aqui?**
 
-- **Desenvolvimento técnico**: Tecnologias como JavaScript, React, Node.js, Python, entre outras.
-- **Projetos práticos**: Cerca de 40 projetos práticos, entregues em ciclos semanais, com requisitos específicos e prazos desafiadores.
-- **Gestão de Projetos**: Experiência constante com metodologias ágeis, trabalho em equipe e resolução de problemas reais.
+Meus repositórios refletem mais do que conhecimento técnico — mostram minha evolução contínua, disciplina de estudo e compromisso com qualidade de entrega.
 
-Esses projetos representam minha capacidade de atuar sob pressão, cumprir prazos e manter alto padrão de qualidade em cada novo desafio.
+Durante minha formação na **Trybe**, participei de um programa intensivo com mais de **30 horas semanais por 1 ano**, envolvendo:
 
-📩 Fique à vontade para entrar em contato.
-Será um prazer conversar, trocar ideias ou apresentar melhor meu trabalho!
+- **Desenvolvimento técnico** → JavaScript, React, Node.js, Python, TypeScript e mais  
+- **+40 projetos práticos** → entregues em ciclos semanais com requisitos reais  
+- **Metodologias ágeis** → Scrum, Kanban, trabalho em equipe e code review  
+- **Testes e boas práticas** → foco em código limpo e sustentável  
 
-<a>[Portfólio](https://portfolio-gemaquejr.netlify.app/) ou [LinkedIn](https://www.linkedin.com/in/gemaquejr/)</a>
+Essa jornada fortaleceu minha capacidade de:
+
+✔️ Trabalhar sob pressão  
+✔️ Cumprir prazos desafiadores  
+✔️ Resolver problemas complexos  
+✔️ Aprender rápido novas tecnologias  
+
+---
+
+📩 **Vamos nos conectar?**  
+Fique à vontade para entrar em contato para networking, oportunidades ou trocas de conhecimento.
+
+<a href="https://portfolio-gemaquejr.netlify.app/">Portfólio</a> • 
+<a href="https://www.linkedin.com/in/gemaquejr/">LinkedIn</a>
 
 ---
 
