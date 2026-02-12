@@ -6,7 +6,7 @@
 
 <h2 align="center">Sobre mim</h2>
 
-Me chamo **Francisco Espíndola Gemaque Junior**, sou **Desenvolvedor Web Full Stack** formado pela Trybe e atualmente em transição de carreira da **Engenharia Agronômica para a Tecnologia** — trazendo comigo uma bagagem analítica, visão de campo e forte capacidade de resolução de problemas.
+Me chamo **Francisco Espíndola Gemaque Junior**, sou **Desenvolvedor Web Full Stack** formado pela Trybe e atualmente em transição de carreira da **Engenharia Agronômica para a Tecnologia**, trazendo comigo uma bagagem analítica, visão de campo e forte capacidade de resolução de problemas.
 
 Minha conexão com tecnologia começou ainda nos anos 90 e evoluiu ao longo dos anos, seja atuando com **levantamentos topográficos e geodésicos**, seja explorando desafios estratégicos que sempre exigiram lógica, precisão e pensamento sistêmico.
 
@@ -16,7 +16,7 @@ Hoje, direciono essa experiência para o desenvolvimento de software, focado em 
 
 🚀 **O que você encontrará por aqui?**
 
-Meus repositórios refletem mais do que conhecimento técnico — mostram minha evolução contínua, disciplina de estudo e compromisso com qualidade de entrega.
+Meus repositórios refletem mais do que conhecimento técnico, mostram minha evolução contínua, disciplina de estudo e compromisso com qualidade de entrega.
 
 Durante minha formação na **Trybe**, participei de um programa intensivo com mais de **30 horas semanais por 1 ano**, envolvendo:
 
