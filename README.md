@@ -2,9 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Mundo!+👋;Sou+Francisco+Gemaque....;Bem+vindo(a)!+😉&center=true&color=CCD1F7&size=25&">
   </a>
-  <p align="center">
-    Full Stack Developer • JavaScript • React • Node.js • TypeScript • Python • REST APIs • Docker • MySQL • MongoDB
-  </p>
 </h1>
 
 <h2 align="center">Sobre mim</h2>
