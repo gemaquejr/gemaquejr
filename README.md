@@ -153,7 +153,7 @@ Fique à vontade para entrar em contato para networking, oportunidades ou trocas
 Feito com ❤️ por [Francisco Gemaque](https://www.linkedin.com/in/gemaquejr/)
 
 <div align="center">
-<p>Tenha um bom dia! 👷</p>
+<p>Obrigado pela visita e tenha um bom dia! 👷</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
