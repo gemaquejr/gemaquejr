@@ -150,8 +150,6 @@ Fique à vontade para entrar em contato para networking, oportunidades ou trocas
 
 ![Snake animation](https://github.com/gemaquejr/gemaquejr/blob/output/github-contribution-grid-snake.svg)
 
-Feito com ❤️ por [Francisco Gemaque](https://www.linkedin.com/in/gemaquejr/)
-
 <div align="center">
 <p>Obrigado pela visita e tenha um bom dia! 👷</p>
 <div>
